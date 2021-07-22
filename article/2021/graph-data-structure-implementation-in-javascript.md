@@ -15,7 +15,6 @@
 >
 > 这篇文章是 Youtube 上[图形数据结构系列](https://www.youtube.com/watch?v=5Tx4A08TspQ&list=PLpWvGP6yhJUinXIN5wJQH7tVp3FU4dbAN&index=1 )的详细的、改进文章版，如果你喜欢视频，你可以观看视频。
 >
-
 > [**观看视频**](https://www.youtube.com/watch?v=5Tx4A08TspQ&list=PLpWvGP6yhJUinXIN5wJQH7tVp3FU4dbAN&index=1)
 
 ## 什么是图？
